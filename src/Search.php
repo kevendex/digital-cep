@@ -1,6 +1,6 @@
 <?php 
 
-namespace usuario\DigitalCep;
+namespace kevendex\DigitalCep;
 
 class Search{
     private $url = "https://viacep.com.br/ws/";

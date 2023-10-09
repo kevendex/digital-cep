@@ -1,5 +1,5 @@
 {
-    "name": "usuario/digital-cep",
+    "name": "kevendex/digital-cep",
     "description": "Busca de cep online",
     "license": "MIT",
     "authors": [
@@ -16,7 +16,7 @@
            "Search": "src/" 
         },
         "psr-4": {
-            "usuario\\DigitalCep\\": "src/"
+            "kevendex\\DigitalCep\\": "src/"
         }
     }
 }
