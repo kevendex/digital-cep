@@ -1,0 +1,22 @@
+{
+    "name": "usuario/digital-cep",
+    "description": "Busca de cep online",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kevendex",
+            "email": "kkds.3009@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+           "Search": "src/" 
+        },
+        "psr-4": {
+            "usuario\\DigitalCep\\": "src/"
+        }
+    }
+}
